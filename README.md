@@ -1,26 +1,13 @@
-### Hi there 👋
-
-<!--
-**kangrnin/kangrnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
-<a href="https://github.com/kangrnin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kangrnin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kangrnin&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kangrnin&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,614385,516395&title_color=fff&text_color=fff&icon_color=fff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kangrnin&layout=compact&langs_count=8&bg_color=30,614385,516395&title_color=fff&text_color=fff&icon_color=fff"/>
 </p>
 
+### 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangrnin)](https://solved.ac/kangrnin/)
+<!--
+[![CodeForces Profile](https://cf.leed.at?id=kangrnin)](https://codeforces.com/profile/kangrnin)
+[![Badge](https://cp-logo.vercel.app/codeforces/kangrnin?logo=true)]
+[![Badge](https://cp-logo.vercel.app/atcoder/kangrnin?logo=true)]
+-->
