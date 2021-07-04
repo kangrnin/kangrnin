@@ -13,6 +13,8 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 -->
 
+⚠️ Work In Progress
+
 ### 🛠️ Tech Stack
 
 ![image](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
