@@ -47,7 +47,7 @@
 
 ### 📊 Statistics
 
-[![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kangrnin&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,614385,516395&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/kangrnin)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kangrnin&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,614385,516395&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/kangrnin)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangrnin)](https://solved.ac/kangrnin/)
 <!--
