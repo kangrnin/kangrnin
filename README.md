@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![kangrnin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangrnin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/kangrnin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kangrnin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kangrnin&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangrnin)](https://solved.ac/kangrnin/)
